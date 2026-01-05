@@ -43,9 +43,11 @@ This repository is intended as a **technical portfolio project**, not as a publi
 
 bot/  
 ├── kiwi_bot.py 
+
 ├── config.py  
 ├── cogs/  
 │ ├── general.py
+
 │ ├── modlogs.py  
 │ ├── roles.py  
 │ ├── utility.py  
@@ -88,7 +90,8 @@ Data and log directories are created dynamically at runtime.
 
 ## Author
 
-Developed by **Koushik Panchadarla**
+Developed by **Koushik Panchadarla**.
+
 Focused on clean system design, security-conscious development, and maintainable Discord bots.
 
 ---
