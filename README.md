@@ -41,15 +41,14 @@ This repository is intended as a **technical portfolio project**, not as a publi
 
 ## Code Structure
 
-bot/  
-├── kiwi_bot.py 
-├── config.py  
-├── cogs/  
- ├── general.py
- ├── modlogs.py  
- ├── roles.py  
- ├── utility.py  
- └── warns.py 
+Kiwi/
+ - kiwi-bot.py
+ cogs/
+  - general.py
+  - modlogs.py
+  - utility.py
+  - warns.py
+  - roles.py
 
 Data and log directories are created dynamically at runtime.
 
