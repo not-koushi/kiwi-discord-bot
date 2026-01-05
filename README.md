@@ -42,14 +42,14 @@ This repository is intended as a **technical portfolio project**, not as a publi
 ## Code Structure
 
 bot/  
-├── kiwi_bot.py # Bot entry point and lifecycle orchestration  
-├── config.py # Runtime configuration (excluded from VCS)  
+├── kiwi_bot.py 
+├── config.py  
 ├── cogs/  
-│ ├── general.py # General commands  
-│ ├── modlogs.py # Moderation logging and audit attribution  
-│ ├── roles.py # Role-related utilities  
-│ ├── utility.py # Miscellaneous helper commands  
-│ └── warns.py # Warning system and autoban logic
+│ ├── general.py
+│ ├── modlogs.py  
+│ ├── roles.py  
+│ ├── utility.py  
+│ └── warns.py 
 
 Data and log directories are created dynamically at runtime.
 
