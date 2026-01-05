@@ -43,15 +43,13 @@ This repository is intended as a **technical portfolio project**, not as a publi
 
 bot/  
 ├── kiwi_bot.py 
-
 ├── config.py  
 ├── cogs/  
-│ ├── general.py
-
-│ ├── modlogs.py  
-│ ├── roles.py  
-│ ├── utility.py  
-│ └── warns.py 
+ ├── general.py
+ ├── modlogs.py  
+ ├── roles.py  
+ ├── utility.py  
+ └── warns.py 
 
 Data and log directories are created dynamically at runtime.
 
